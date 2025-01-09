@@ -1,4 +1,10 @@
-# [Beauty Under Capitalism](https://beautyundercapitalism.com)
+## I forked this repository for research purposes when I was Tech Co-Founder of [HoneyToCocoa](https://honeytococoa.com/). I left the startup in March 2024.<br><br>
+
+**********<br><br>
+
+# Below is the original README from [@skullface](https://github.com/skullface/)<br>
+<i> All rights reserved to original owner/publisher</i> ©
+[Beauty Under Capitalism](https://beautyundercapitalism.com)
 
 Self-care is vital.
 
